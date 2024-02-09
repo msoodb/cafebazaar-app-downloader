@@ -1,0 +1,30 @@
+{
+    "properties": null,
+    "singleReply": {
+        "appDownloadInfoReply": {
+            "token": "999542722679.apk?expire=1707765168&token=a13f1ee6af619919dacfebbb8dec6d48&a=",
+            "hashCode": "7ec029e0366c2e2ce13f61778edaf473a674dabc",
+            "cdnPrefix": [
+                "https://appcdn.cafebazaar.ir/"
+            ],
+            "ipAddress": "87.92.108.61",
+            "packageSize": "24652195",
+            "versionCode": 1,
+            "multiConnectionDownload": true,
+            "compatibleDevices": [],
+            "packageDiffs": [],
+            "baseReferrers": [],
+            "hasSplits": false,
+            "hasAdditionalFiles": false,
+            "splits": [],
+            "additionalFiles": [],
+            "installationSize": "36978293",
+            "installType": 0,
+            "installSource": "com.farsitel.bazaar",
+            "fullPathUrls": [
+                "https://appcdn.cafebazaar.ir/apks/999542722679.apk?expire=1707765168&token=a13f1ee6af619919dacfebbb8dec6d48&a=.apk",
+                "https://arvancdn.cafebazaar.ir/arvan/apks/999542722679.apk?hash=976aebfdaf54fa4b1bd707e5d176ab41&expires=1707765168&a=.apk"
+            ]
+        }
+    }
+}
